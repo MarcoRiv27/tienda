@@ -16,7 +16,12 @@ public class Tienda {
         this.productos = new ArrayList<>();
     }
 
-
+/**
+ * 
+ * @param p
+ * @param
+ * 
+ */
     public void agregarProducto(Producto p) {
         productos.add(p);
     }
