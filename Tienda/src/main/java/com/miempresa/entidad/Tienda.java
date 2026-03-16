@@ -17,9 +17,9 @@ public class Tienda {
     }
 
 /**
+ * Este metodo lo que hace es agreagar un producto
  * 
- * @param p
- * @param
+ * @param p Es un Objeto producto. p puede ser String
  * 
  */
     public void agregarProducto(Producto p) {
